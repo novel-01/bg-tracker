@@ -1,2 +1,2 @@
-# bg-tracker
-Budget Tracker App
+# Budget Tracker
+Budget Tracker app to manage moneys
